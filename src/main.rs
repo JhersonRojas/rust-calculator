@@ -1,7 +1,8 @@
-// Importación de los metodos como modulo
+// Importación de los módulos
 mod calculadora;
 mod operaciones;
 
+// Importación de un crate de Rust para recibir inputs
 use std::io;
 
 // Función main principal que se ejecuta en Rust
